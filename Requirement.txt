@@ -1,0 +1,4 @@
+requests
+google-cloud-bigquery
+pandas
+pandas_gpq
